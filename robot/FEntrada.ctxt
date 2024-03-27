@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FEntrada
+comment0.text=\r\n\ Maneja\ la\ entrada\ de\ datos,\ ya\ sea\ desde\ un\ archivo\ o\ desde\ la\ consola.\r\n
+comment1.params=nombreArchivo
+comment1.target=Edificio\ cargarEdificioDesdeArchivo(java.lang.String)
+comment1.text=\r\n\ Lee\ el\ edificio\ desde\ un\ archivo\ y\ devuelve\ una\ instancia\ de\ la\ clase\ Edificio.\r\n
+comment2.params=
+comment2.target=Edificio\ leerEdificioDesdeConsola()
+comment2.text=\r\n\ Lee\ el\ edificio\ desde\ la\ consola\ y\ devuelve\ una\ instancia\ de\ la\ clase\ Edificio.\r\n
+numComments=3

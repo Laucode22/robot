@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Coordenada
+comment0.text=\r\nRepresenta\ las\ coordenadas\ (x,\ y)\ en\ el\ espacio\ bidimensional.\r\n
+comment1.params=x\ y
+comment1.target=Coordenada(int,\ int)
+comment1.text=\r\n\ Constructor\ \ que\ inicializa\ las\ coordenadas.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Devuelve\ una\ representaci\u00F3n\ en\ cadena\ de\ la\ coordenada\ en\ el\ formato\ (x,\ y).\r\n
+numComments=3

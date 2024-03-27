@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FSalida
+comment0.text=\r\n\ Maneja\ la\ salida\ de\ resultados,\ ya\ sea\ imprimiendo\ en\ la\ consola\ o\ escribiendo\ en\ un\ archivo.\r\n
+comment1.params=outputFile\ solucion
+comment1.target=void\ escribirSalida(java.lang.String,\ java.util.List)
+comment1.text=\r\n\ \ Escribe\ las\ coordenadas\ de\ la\ soluci\u00F3n\ en\ un\ archivo,\ \r\n\ \ anexando\ al\ contenido\ existente\ si\ el\ archivo\ ya\ existe.\r\n
+comment2.params=
+comment2.target=void\ mostrarAyuda()
+comment2.text=\r\n\ Objetivo\:\ Muestra\ informaci\u00F3n\ de\ ayuda\ sobre\ la\ sintaxis\ del\ programa\ y\ las\ opciones\ disponibles.\r\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Robot
+comment0.text=\r\n\ Punto\ de\ entrada\ principal\ para\ la\ ejecuci\u00F3n\ del\ programa.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ Realiza\ la\ l\u00F3gica\ principal\ del\ programa.\ Verifica\ los\ argumentos\ de\ entrada,\ \r\n\ lee\ el\ edificio,\ resuelve\ el\ edificio\ y\ escribe\ los\ resultados.\r\n
+numComments=2

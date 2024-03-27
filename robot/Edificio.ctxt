@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Edificio
+comment0.text=\r\n\ Representa\ el\ edificio\ con\ pasillos\ libres\ (L),\ pasillos\ estrechos\ (E)\ y\ la\ posici\u00F3n\ del\ tornillo\ (T).\r\n\ Contiene\ m\u00E9todos\ para\ resolver\ el\ edificio\ y\ encontrar\ el\ camino\ desde\ la\ entrada\ hasta\ el\ tornillo.\r\n
+comment1.params=filas\ columnas\ datos
+comment1.target=Edificio(int,\ int,\ char[][])
+comment1.text=\r\n\ \ Constructor\ que\ inicializa\ el\ edificio\ con\ sus\ dimensiones\ y\ datos.\r\n
+comment2.params=trace
+comment2.target=java.util.List\ resolverEdificio(boolean)
+comment2.text=\r\n\ \ M\u00E9todo\ principal\ que\ inicia\ la\ b\u00FAsqueda\ del\ tornillo\ y\ devuelve\ una\ lista\ de\ coordenadas\ \r\n\ \ que\ representan\ el\ camino\ desde\ la\ entrada\ hasta\ el\ tornillo.\r\n
+comment3.params=x\ y\ solucion\ trace
+comment3.target=boolean\ buscarTornillo(int,\ int,\ java.util.List,\ boolean)
+comment3.text=\r\n\ M\u00E9todo\ que\ inicia\ la\ b\u00FAsqueda\ del\ tornillo\ utilizando\ un\ enfoque\ de\ vuelta\ atr\u00E1s.\r\n
+comment4.params=x\ y\ camino\ trace
+comment4.target=boolean\ buscarRecursivo(int,\ int,\ java.util.Stack,\ boolean)
+comment4.text=\r\n\ M\u00E9todo\ recursivo\ que\ realiza\ la\ b\u00FAsqueda\ del\ tornillo.\ Se\ utiliza\ en\ conjunto\r\n\ con\ buscarTornillo.\r\n
+numComments=5
